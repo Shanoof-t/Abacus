@@ -1,0 +1,11 @@
+{
+  "name": "abacus",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "turbo": "^2.9.18"
+  }
+}

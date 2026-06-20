@@ -1,0 +1,7 @@
+packages:
+  - 'apps/backend'
+  - 'apps/web'
+allowBuilds:
+  bcrypt: true
+  sharp: false
+  unrs-resolver: false
